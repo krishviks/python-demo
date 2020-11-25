@@ -8,4 +8,5 @@ def lesser_of_even_num(a,b):
 
 
 final_num = lesser_of_even_num(4,2)
+print("Lesser of the given number is: ")
 print(final_num)
